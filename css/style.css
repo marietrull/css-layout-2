@@ -24,14 +24,16 @@ header, footer {
 }
 
 section {
-	height: 15px;
+	height: 200px;
 	width: 20%;
+	margin: auto;
 	box-sizing: border-box;
 }
 
 aside {
-	height: 15px;
+	height: 200px;
 	width: 50%;
+	margin: auto;
 	box-sizing: border-box;
 }
 
