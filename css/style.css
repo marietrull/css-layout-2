@@ -16,7 +16,7 @@ body * {
 }
 
 header, footer {
-	height: 150px;
+	height: 100px;
 	margin-top: 15px;
 	margin-bottom: 15px;
 	margin-left: auto;
@@ -24,14 +24,14 @@ header, footer {
 }
 
 section {
-	height: 200px;
-	width: 20%;
+	height: 250px;
+	width: 23.4%;
 	margin: auto;
 	box-sizing: border-box;
 }
 
 aside {
-	height: 200px;
+	height: 250px;
 	width: 50%;
 	margin: auto;
 	box-sizing: border-box;
