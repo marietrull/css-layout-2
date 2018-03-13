@@ -13,9 +13,13 @@ body{
 body * {
 	border: 1px solid black;
 	background-color: white;
+	align-content: center;
 }
 
-header, footer {
+/*header, footer part refers to the "element selector:*/
+/*Can also use .class -name, for multiple things that may be returned like a list of movies*/
+/*#id-value can only be used once per page. This is typically for a username.*/
+header, footer { 
 	height: 100px;
 	margin-top: 15px;
 	margin-bottom: 15px;
